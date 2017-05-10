@@ -4,7 +4,7 @@ description: studioamplify docs
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://weepy.github.io"
-github: http://github.com/tnguyen/blueface
+github: http://github.com/weepy/weepy.github.io
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
