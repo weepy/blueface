@@ -1,6 +1,6 @@
 # Jekyll Defaults
-title: studioamplify/docs
-description: studioamplify docs
+title: KRFT:docs
+description: KRFT docs
 baseurl: "" # the subpath of your site, e.g. /blog
 
 url: "https://weepy.github.io"
