@@ -1,10 +1,9 @@
 # Jekyll Defaults
-title: blueface
-description: A small and simple site I made to test out Jekyll.
+title: learn:KRFT
+description: Learn KRFT
 baseurl: "" # the subpath of your site, e.g. /blog
-
-url: "http://thien.io/blueface"
-github: http://github.com/tnguyen/blueface
+url: "https://weepy.github.io"
+github: http://github.com/weepy/weepy.github.io
 highlighter: rouge
 markdown: kramdown
 permalink: /post/:title/
