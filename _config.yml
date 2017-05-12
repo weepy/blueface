@@ -14,8 +14,8 @@ rss_path: /feed.xml
 navigation:
 - text: Posts
   url: /posts/
-- text: About
-  url: /about/
+- text: Manual
+  url: /manual/
 - text: Archives
   url: /archives/
 - text: Tags
