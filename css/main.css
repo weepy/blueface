@@ -27,9 +27,11 @@ h6 {
     font-weight: 400;
     color: black;
 }
+
 #disqus_thread {
-    margin-top: 200px;
+    margin-top: 300px;
 }
+
 #main h3 {
     font-size: 1em;
     padding-top: 1em;
