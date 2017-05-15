@@ -12,11 +12,9 @@ gems: [jekyll-paginate]
 paginate_path: "/posts/page:num"
 rss_path: /feed.xml
 navigation:
-- text: Posts
+- text: BLOG
   url: /posts/
-- text: Manual
-  url: /manual/
-- text: Archives
-  url: /archives/
-- text: Tags
-  url: /tags/
+- text: Docs
+  url: /docs/
+- text: FAQs
+  url: /faqs/

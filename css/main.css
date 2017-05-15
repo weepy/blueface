@@ -25,7 +25,15 @@ h5,
 h6 {
     font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
     font-weight: 400;
-    color: #315572;
+    color: black;
+}
+#main h3 {
+    font-size: 1em;
+    padding-top: 1em;
+}
+#main h1{
+    padding-bottom: 1em;
+    padding-top: 1em
 }
 #main h4 {
     line-height: 1.6em;
@@ -40,12 +48,12 @@ header h1 {
     font: 1em -apple-system-headline, "Droid Sans Mono", Courier, mono;
     text-transform: lowercase;
     margin-left: 25px;
-    padding-bottom: 2.1em;
+    padding-bottom: 1em;
 }
 header h1 a {
     color: #ffffff;
     font-size: 32px;
-    background-color: #0f2e57;
+    background-color: black;
     padding: 10px 13px;
 }
 header h1 a:hover {
@@ -75,7 +83,7 @@ nav ul li {
 	font-size: 105%;
 }
 nav ul li a {
-    color: #324787;
+    color: black;
     padding: 8px 9px;
     margin: 0 -10px 0px;
     text-transform: uppercase;
@@ -108,7 +116,7 @@ p em {
 }
 h2 {
     font-size: 1.3em;
-    font-weight: 300;
+    font-weight: 400;
     margin-top: 1em;
     margin-bottom: 1em;
 }
@@ -117,7 +125,7 @@ h6 {
     font-style: italic;
 }
 p {
-    font-size: 0.8em;
+    font-size: 1.0em;
     margin-bottom: 15px;
     margin-top: 12px;
     line-height: 1.7em;
@@ -181,19 +189,31 @@ li {
     margin-left: 5%;
 	margin-top: 5px;
 	line-height: 1.6em;
-	font-size: 0.8em;
+	font-size: 1.0em;
 	margin-bottom: 5px;
 }
 a {
-    color: #76a0de;
+    color: #ce0094;
     text-decoration: none;
 }
 a:hover {
     color: #274977
 }
+
+
+
+
+
+
 #main p img {
-    width: 100%
+    /*width: 100%;*/
+    max-width: 400px;
+    max-height: 200px;
+    display: block;
 }
+
+
+
 article p a {
     border-bottom: 1px solid #e4edf9 font-weight: normal;
     font-style: normal;
@@ -202,13 +222,15 @@ article p a {
     background-color: #c25a5a;
 }
 blockquote {
-    border-left: 5px solid #8197b9;
+    border-left: 10px solid #f300ff;
     padding-left: 1.5em;
+    padding-right: 1.5em;
     padding-top: 0.32px;
     margin-top: 1em;
     margin-bottom: 1em;
     font-weight: 100;
     padding-bottom: 0.32px;
+    background: #ffd1fc;
 }
 footer {
     font: 80% Roboto;
