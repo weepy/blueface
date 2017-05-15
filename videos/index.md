@@ -7,3 +7,8 @@
 ### My KRFT is strong │ Live performance - haQ attaQ
 [![My KRFT is strong │ Live performance - haQ attaQ](https://img.youtube.com/vi/O-vR5SX8TlQ/0.jpg)](https://www.youtube.com/watch?v=CTu4w3BIvhI "My KRFT is strong │ Live performance - haQ attaQ")
 
+### KRFT - MiniJam #1
+[![KRFT - MiniJam #1
+](https://img.youtube.com/vi/O-vR5SX8TlQ/0.jpg)](https://www.youtube.com/watch?v=rCEU8k2Jao0 "KRFT - MiniJam #1
+")
+
