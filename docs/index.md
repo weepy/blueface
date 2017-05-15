@@ -1,3 +1,8 @@
+------
+comments: true
+
+------
+
 # [KRFT Docs](/docs) :: Overview
 
 Welcome to the KRFT docs. Choose a topic below to learn more about KRFT and use the menu to navigate. If you have an idea or need more help please <a href="mailto:hello@studioamplify.com">email us</a> us or post on our <a href="http://studioamplify.chat">forum</a>.
