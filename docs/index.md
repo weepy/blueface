@@ -1,7 +1,3 @@
-------
-comments: true
-
-------
 
 # [KRFT Docs](/docs) :: Overview
 
