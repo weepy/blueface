@@ -17,7 +17,7 @@ Make sure you're not using bluetooth headphones! Also, the Keyboard & Drum Machi
 The best place to post it is on our forum => [http://studioamplify.chat/c/krft-feature-requests3](http://studioamplify.chat/c/krft-feature-requests3)
 
 ### Will you be making an Android version?
-If there's enough support, we'll do it. You can register your interest here => https://goo.gl/forms/rP0oj2KIyYDeROWl24
+If there's enough support, we'll do it. You can register your interest here => [https://goo.gl/forms/rP0oj2KIyYDeROWl24](https://goo.gl/forms/rP0oj2KIyYDeROWl24)
 
 ### Who owns the output?
 You do. We want to build and tool don't intend to claim copyright on produced works.
