@@ -183,7 +183,7 @@ hr {
     height: 1px;
     border-style: none;
 }
-#main {
+#main, footer {
     padding-right: 32px;
     padding-left: 32px;
 }
@@ -247,7 +247,7 @@ footer {
 footer .contact {
     float: right;
     margin-right: auto;
-    margin-top: 1em;
+    /*margin-top: 1em;*/
     line-height: 1.7em;
     margin-left: auto;
 }
@@ -333,7 +333,7 @@ code {
 }
 @media (min-width: 704px) {
 
-    #main {
+    #main, footer {
         width: 640px;
         margin-left: auto;
         margin-right: auto;
