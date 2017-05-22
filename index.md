@@ -4,4 +4,6 @@ title: Home
 group: navigation
 ---
 
-HELLO
+<script>
+document.location.href='/docs'
+</script>
