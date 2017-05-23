@@ -11,6 +11,7 @@ If you have an idea or need more help please <a href="mailto:hello@studioamplify
 - [The Surface](the-surface)
 - [Timeline Cells](timeline-cells)
 - [The Keyboard](the-keyboard)
+- [The Matrix](the-matrix)
 - [Morph Cells](morph-cells)
 - [Dial Cells](dial-cells)
 - [Audio Cells](audio-cells)
