@@ -16,5 +16,6 @@ If you have an idea or need more help please <a href="mailto:hello@studioamplify
 - [Group Cells](group-cells)
 - [Recording Your Performance](recording-your-performance)
 - [Using MIDI](using-midi)
+- [Connecting with Link](using-link)
 
 ---
