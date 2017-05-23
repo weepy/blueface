@@ -18,3 +18,5 @@ navigation:
   url: /faqs/
 - text: VIDEOS
   url: /videos/
+- text: FORUM
+  url: https://studioamplify.chat

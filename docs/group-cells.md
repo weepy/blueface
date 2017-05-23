@@ -1,6 +1,6 @@
 # [KRFT Docs](/docs) :: Group Cells
 
-Group Cells trigger a pre defined selection of cells to play at a specified interval. This is useful to bring some structure to a song or performance or to trigger multiple cells at once that would be normally be difficult. You can configure a Group Cell by just tapping on it in select mode. Here are the options:
+Group Cells trigger a pre-defined selection of cells to play at a specified interval. This is useful to bring some structure to a song or performance or to trigger multiple cells at once that would be normally be difficult. You can configure a Group Cell by just tapping on it in select mode. Here are the options:
 
 ----
 

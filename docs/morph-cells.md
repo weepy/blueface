@@ -15,9 +15,9 @@ Here's a run down of a morphs' settings:
 
 - **Target Value** - The value you want to be set when this morph is turned on.
 
-- **Time on** - The duration, in notes, of the morph from Default Value to Target Value when activated.
+- **Time on** - The duration, in notes, of the morph from *Default Value* to Target Value when activated.
 
-- **Time off** - The duration, in notes, of the morph from Target Value to Default Value when turned off.
+- **Time off** - The duration, in notes, of the morph from *Target Value* to Default Value when turned off.
 
 - **Interaction** - The interaction required to run the morph on & off
     - **Toggle** - Tap the cell to toggle it on or off
@@ -30,6 +30,15 @@ Here's a run down of a morphs' settings:
 > 
 > Try overlaying multiple morph cells to produce more complex effects
 >
+
+
+## Modulation
+
+New since 1.5 is Modulation: a way to add oscillation to morphs.
+
+- **Shape** - The shape of the oscillation (either Flat, Square, Sine, Hex, Saw, Reverse Saw, Triangle, Random, Random min/max, Random Value). Flat is equivalent to none.
+- **Time** - the number of 1/16th notes to reach maximum amplitude. 
+- **Sync** - sync to the interaction, or the bar.
 
 --------
 
