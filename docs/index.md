@@ -10,12 +10,13 @@ If you have an idea or need more help please <a href="mailto:hello@studioamplify
 
 - [The Surface](the-surface)
 - [Timeline Cells](timeline-cells)
+- [The Keyboard](the-keyboard)
 - [Morph Cells](morph-cells)
 - [Dial Cells](dial-cells)
 - [Audio Cells](audio-cells)
 - [Group Cells](group-cells)
 - [Recording Your Performance](recording-your-performance)
 - [Using MIDI](using-midi)
-- [Connecting with Link](using-link)
+- [Using Link](using-link)
 
 ---
