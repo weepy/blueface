@@ -68,11 +68,12 @@ function playVideo(src) {
     iframe.style.left = (window.innerWidth - w) /2
     iframe.style.top = (window.innerHeight - h) /2
     iframe.style.position = 'absolute'
-
-
+    document.body.style.overflow = 'hidden'
+    
     overlay.onclick = function() {
         overlay.innerHTML = ""
         overlay.style.display = "none"    
+        document.body.style.overflow = 'default'
     }
 
 }
