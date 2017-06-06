@@ -14,8 +14,6 @@ rss_path: /feed.xml
 navigation:
 - text: Docs
   url: /docs/
-- text: FAQs
-  url: /faqs/
 - text: VIDEOS
   url: /videos/
 - text: FORUM
