@@ -144,6 +144,15 @@ Hardware can of course be powered from KRFT via your DAW which would be a typica
 
 
 
+---
 
+## Related Videos
+
+### Using MIDI 
+
+<div class="vid" src="4h6CW2ahMqs"></div>
+
+
+----
 
 Next [Using Link >>](../using-link)
