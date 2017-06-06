@@ -24,7 +24,7 @@ Group Cells trigger a pre-defined selection of cells to play at a specified inte
 > Try experimenting with different modes for structuring and layering your performance.
 >
 
----
+----
 
 ## Related Videos
 
