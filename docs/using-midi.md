@@ -96,17 +96,35 @@ You can also connect via local WiFi network, however stability and latency is qu
 
 ---
 
-<a name="midi2pc"></a>
+<a name="midi2windows"></a>
 
-## Sending MIDI to a PC
+## Sending MIDI to Windows
 
-TBD
+
+### Via Wifi
+
+- Install and run Apple [Bonjour](https://support.apple.com/downloads/bonjour_for_windows)
+- Install [rtpMIDI](https://www.tobias-erichsen.de/software/rtpmidi.html) by Tobias Erichsen which offers Core MIDI features for Windows
+- See also the [tutorial](http://www.tobias-erichsen.de/software/rtpmidi/rtpmidi-tutorial.html)
+
+
+
+### Via USB
+
+> MIDI via USB is currently only supported on the iPad
+>
+
+- Use the Apple Camera Connection Kit to connect it with a USB Midi Interface such as iRig
+
 
 ---
 
 <a name="midi2ableton"></a>
 
 ## Ableton Live
+
+### midi learn
+
 
 TBD
 
