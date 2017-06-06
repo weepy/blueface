@@ -82,9 +82,9 @@ function playVideo(src) {
 
 var html = "<div id=overlay></div>"
 html += "<style>"
-html += "#overlay {top: 0; left: 0;  position: fixed; display: none; width: 100%; height: 100%}"
-html += "#overlay .bg { opacity: 0.6; background: #383; top: 0; left: 0; position: absolute; width: 100%; height: 100%}"
-html += "#overlay iframe { position: absolute; background: #020}"
+html += "#overlay {top: 0; left: 0;  position: fixed; display: none; width: 100%; height: 110%}"
+html += "#overlay .bg { opacity: 0.6; background: #6b4866; top: 0; left: 0; position: absolute; width: 100%; height: 100%}"
+html += "#overlay iframe { position: absolute; background: #202}"
 html += ".vid img { background: #333; cursor: pointer}"
 html += "</style>"
 
