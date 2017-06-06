@@ -58,7 +58,9 @@ function playVideo(src) {
 
     iframe.src ="https://www.youtube.com/embed/" + src + "?ecver=1&theme=dark&color=white&autoplay=1&autohide=1&cc_load_policy=1&modestbranding=1&showinfo=0&rel=0"
 
-    var w = window.innerWidth * 0.7
+    var ratio = window.innerWidth < window.innerHeight ? 1 : 0.7
+    
+    var w = window.innerWidth * ratio
     var h = w * 315/560
     iframe.width = w
     iframe.height = h
