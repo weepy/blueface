@@ -23,6 +23,14 @@ vids.forEach(function(vid) {
 
     images.push(image)
     vid.appendChild(image)
+
+    var playButton = document.createElement("div")
+
+    playButton.className = "krft-video-play-button"
+
+    vid.style.width = width
+    vid.appendChild(playButton)
+
 })
 
 
@@ -76,7 +84,9 @@ function playVideo(src) {
         document.body.style.overflow = 'scroll'
     }
 
+
 }
+
 
 
 
@@ -85,7 +95,9 @@ html += "<style>"
 html += "#overlay {top: 0; left: 0;  position: fixed; display: none; width: 100%; height: 110%}"
 html += "#overlay .bg { opacity: 0.6; background: #6b4866; top: 0; left: 0; position: absolute; width: 100%; height: 100%}"
 html += "#overlay iframe { position: absolute; background: #202}"
+html += ".vid { position: relative }"
 html += ".vid img { background: #333; cursor: pointer}"
+html += ".krft-video-play-button { width: 100%; background: rgba(0, 0, 0, 0.1); top: 0; height: 100%; position: absolute; background-image: url(http://uploads.webflow.com/56fbb3ef4ea8b3bd6a5b18b7/593810c228d3377226b79651_play%20button.png); background-repeat: no-repeat; background-position: center; background-size: 20%; pointer-events: none; }"
 html += "</style>"
 
 document.body.innerHTML += html

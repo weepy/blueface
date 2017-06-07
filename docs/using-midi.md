@@ -25,7 +25,7 @@ See below for guides on setting up MIDI with different destinations
 - [iOS Apps](#midi2iosapps)
 - [Audio Bus 3](#midi2audiobus3)
 - [Sending MIDI to a Mac](#midi2mac)
-- [Sending MIDI to a PC](#midi2pc)
+- [Sending MIDI to Winoddws](#midi2windows)
 - [Ableton](#midi2ableton)
 - [Logic Pro X](#midi2logicprox)
 - [Other desktop software](#otherdesktopsoftware)
@@ -100,6 +100,8 @@ You can also connect via local WiFi network, however stability and latency is qu
 
 ## Sending MIDI to Windows
 
+Use Midimittr or Midimux to connect.
+
 
 ### Via Wifi
 
@@ -132,6 +134,11 @@ See "Using MIDI" video below for an explanation of MIDI Learn in Ableton
 <a name="midi2logicprox"></a>
 
 ## Logic Pro X
+
+Logic Pro X does have some issues in dealing with MIDI over multiple channels, but it can be resolved. 
+See here [https://discussions.apple.com/thread/5174298?tstart=0](https://discussions.apple.com/thread/5174298?tstart=0)
+and [https://forum.audiob.us/uploads/editor/ij/24nwl6nun1u4.jpeg](https://forum.audiob.us/uploads/editor/ij/24nwl6nun1u4.jpeg)
+
 
 ---
 
