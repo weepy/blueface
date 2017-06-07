@@ -73,8 +73,8 @@ function playVideo(src) {
     iframe.width = w
     iframe.height = h
 
-    iframe.style.left = (window.innerWidth - w) /2
-    iframe.style.top = (window.innerHeight - h) /2
+    iframe.style.left = (window.innerWidth - w) /2 + "px"
+    iframe.style.top = (window.innerHeight - h) /2 + "px"
     iframe.style.position = 'absolute'
     document.body.style.overflow = 'hidden'
 
