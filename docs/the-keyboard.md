@@ -40,3 +40,5 @@ The vertical position of a touch will be used for the notes velocity.
 - Tap to complete.
 - Recording will overdub the current notes in the cell's timeline. 
 - Playing longer than the current length will automatically increase the length as necessary.
+
+Next [The Matrix >>](the-matrix)
