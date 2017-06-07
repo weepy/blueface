@@ -108,9 +108,10 @@ The interaction behaviour of a cell is determined by its visual style.
 - ie the Cell will only be active whilst the touch is held.
 - Dials that are outlined will snap-back to their original position when released.
 
----
+-----
 
-## Related Videos
+
+Related Videos
 
 ### The Surface 
 
