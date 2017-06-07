@@ -139,4 +139,4 @@ On this page you can adjust the advanced settings for the Timeline.
 ---------
 
 
-Next [The Keyboard >>](the-keyboard)
+Next [The Keyboard >>](../the-keyboard)
