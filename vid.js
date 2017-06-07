@@ -16,7 +16,7 @@ vids.forEach(function(vid) {
 
     }
 
-    image.src = "https://img.youtube.com/vi/" + src + "/mqdefault.jpg"
+    image.src = "https://img.youtube.com/vi/" + src + "/maxresdefault.jpg"
     image.width = width
     image.height = width * 9/16
 
