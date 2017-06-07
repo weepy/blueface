@@ -125,4 +125,18 @@ On this page you can adjust the advanced settings for the Timeline.
 
 ---
 
+## Related Videos
+
+
+### Mix Mode
+
+<div class="vid" src="40XJM0kk0a8"></div>
+
+### Interaction, Sync, Cue
+
+<div class="vid" src="3rmyCseIQb4"></div>
+
+---------
+
+
 Next [Morph Cells >>](../morph-cells)

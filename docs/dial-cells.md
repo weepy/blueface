@@ -30,4 +30,16 @@ Here's a run down of a dial's settings:
 
 ---
 
+## Related Videos
+
+
+### Dial Cells
+
+<div class="vid" src="QrFeu73-UKM"></div>
+
+
+
+
+---
+
 Next [Audio Cells >>](../audio-cells)

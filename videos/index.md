@@ -41,6 +41,31 @@
 <div class="vid" src="cpfezeQYIkk"></div>
 
 
+### Dial Cells
+
+<div class="vid" src="QrFeu73-UKM"></div>
+
+
+### Morph Cells
+
+<div class="vid" src="d3Fa1Skva6s"></div>
+
+### Mix Mode
+
+<div class="vid" src="40XJM0kk0a8"></div>
+
+### Interaction, Sync, Cue
+
+<div class="vid" src="3rmyCseIQb4"></div>
+
+
+
+
+
+
+
+
+
 
 ## Performances
 

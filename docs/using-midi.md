@@ -123,10 +123,9 @@ You can also connect via local WiFi network, however stability and latency is qu
 
 ## Ableton Live
 
-### midi learn
+### MIDI learn
 
-
-TBD
+See "Using MIDI" video below for an explanation of MIDI Learn in Ableton
 
 ---
 
