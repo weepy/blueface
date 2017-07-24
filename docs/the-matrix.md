@@ -4,7 +4,6 @@ The matrix is a "piano-roll" style interface for editting the notes within Timel
 
 
 ## Matrix: interactions
-
 - **Tap the background** - add a note
 - **Tap a note** - delete note
 - **Long hold on the background** - enter multi select mode, drag to select many notes
@@ -12,6 +11,7 @@ The matrix is a "piano-roll" style interface for editting the notes within Timel
 - **Drag up/down on the background** - move the viewport up or down in pitch
 - **Drag a note** - move its time or pitch
 - **Drag end of note** - change its length
+
 
 ## Multi Select Mode
 In multi select mode an additional actions bar will appear.
@@ -21,12 +21,12 @@ In multi select mode an additional actions bar will appear.
 - **Transform** - Opens up the transform menu.
 - **Done** - Exits multi select mode.
 
+
 ## Preview
 This shows an overview of all the notes in the timeline. Tap and drag to navigate to a different bar.
 
 
 ## Bottom Toolbar
-
 - **More**
     - *Song Settings* - goes to the master settings
     - *Quantize to Grid* - snap notes to current grid
