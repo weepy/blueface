@@ -53,4 +53,4 @@ New since 1.5 is Modulation: a way to add oscillation to morphs.
 
 ---------
 
-Next [Dial Cells >>](../dial-cells)
+Next [Transform Cells >>](../transform-cells)
