@@ -26,7 +26,6 @@ table td {font-size: 12px;}
 </div>
 
 
-
 <div class="cell">
 <span>Morph</span>
 <img src='../img/morph.jpg'/>
@@ -34,6 +33,15 @@ table td {font-size: 12px;}
 A triangle represents a Morph: Tweens a setting over a set duration e.g. pitch of a channel down an octave.
 </p>
 </div>
+
+<div class="cell">
+<span>Transform</span>
+<img src='../img/transform.jpg'/>
+<p>
+A hexagon represents a Transform Cell. These cells take one or more timelines and transform their notes in real time. 
+</p>
+</div>
+
 
 <div class="cell">
 <span>Dial</span>
@@ -52,7 +60,6 @@ An oval represents an Audio clip. Custom audio files can be imported. <br><br><b
 </p>
 </div>
 
-
 <div class="cell">
 <span>Group</span>
 <img src='../img/group.jpg'/>
@@ -61,6 +68,9 @@ A rectangle represents a Group which cues a list of cells to play at the start o
 </p>
 </div>
 </div>
+
+
+
 
 ---
 
