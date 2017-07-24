@@ -13,6 +13,7 @@ If you have an idea or need more help please <a href="mailto:hello@studioamplify
 - [The Keyboard](the-keyboard)
 - [The Matrix](the-matrix)
 - [Morph Cells](morph-cells)
+- [Transform Cells](transform-cells)
 - [Dial Cells](dial-cells)
 - [Audio Cells](audio-cells)
 - [Group Cells](group-cells)
