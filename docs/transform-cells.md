@@ -1,54 +1,51 @@
 # [KRFT Docs](/docs) :: Transform Cells
 
-Transform cells can be used to change a specific parameter on an instrument or channel over a specified period of time e.g. Pitch up an instrument an octave over 4 bars, set the volume of a channel instantly.
+Transform cells take one or more timelines and transform their notes in real time. For example, change the rhythm or add a harmony.
 
-This is great for jamming and adding variety to a loop.
+These cells are very powerful and a great source of inspiration.
 
 ----
 
 
-Here's a run down of a morphs' settings:
+Here's a run down of the different transforms you can apply:
 
-- **Property** - The parameter that the morph controls on the Channel or Instrument.
+- **Note Repeat** - Repeats notes at a set interval to create a delay like effect.
 
-- **Default Value** - The current value of this property on the instrument.
+- **Arpeggiate** - Applies an arpeggiator to the notes with a customizable speed and range. 
 
-- **Target Value** - The value you want to be set when this morph is turned on.
+- **Rhythmize** - Adds a rhythm to active notes.
 
-- **Time on** - The duration, in notes, of the morph from *Default Value* to Target Value when activated.
+- **Harmonize** - Create pitch shifts or harmonies in the songs key or in a chromatic scale.
 
-- **Time off** - The duration, in notes, of the morph from *Target Value* to Default Value when turned off.
+- **Beat Repeat** - Repeats a section of a timeline that is currently playing.
 
-- **Interaction** - The interaction required to run the morph on & off
-    - **Toggle** - Tap the cell to toggle it on or off
-    - **Hold** - Press and hold on the Cell to play it. It will turn off when you let go.
-    - **Turn off on exit** - If the cell turns off when you exit the touch area.
+- **Quantize** - Quantizes all notes to a specified time interval.
+
+- **Reverse** - Reverses the timeline. You can also just reverse the pitch and retain the rhythm by setting it to Pitch mode.
+
+- **Invert** - Inverts the timeline notes pitch.
+
+- **Rotate** - Pushes the notes forward or backwards in time. You can also just rotate the pitch and keep the rhythm.
+
+- **Randomize Key** - Randomize every note by a number of steps in the songs scale.
+
+- **Randomize Time** - Randomize every notes time up to a maximum interval (strength). You can also quantize the resulting time. Use the "skip chance" setting to randomly skip notes.
 
 ---
 
 > **KRFT TIP**
 > 
-> Try overlaying multiple morph cells to produce more complex effects
+> You can add multiple transforms to the same timeline to produce some interesting effects!
 >
-
-
-## Modulation
-
-New since 1.5 is Modulation: a way to add oscillation to morphs.
-
-- **Shape** - The shape of the oscillation (either Flat, Square, Sine, Hex, Saw, Reverse Saw, Triangle, Random, Random min/max, Random Value). Flat is equivalent to none.
-- **Time** - the number of 1/16th notes to reach maximum amplitude. 
-- **Sync** - sync to the interaction, or the bar.
 
 --------
 
 ## Related Videos
 
 
+### What's new in KRFT 1.6
 
-### Morph Cells
-
-<div class="vid" src="d3Fa1Skva6s"></div>
+<div class="vid" src="oxnteOWenAw"></div>
 
 
 ---------
