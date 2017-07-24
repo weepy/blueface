@@ -103,6 +103,7 @@ On this page you can adjust the advanced settings for the Timeline.
 
 - **Synchronization** -  Controls how the timeline will align with the master beat.
     - **Master** -  Sync with the longest loop playing
+    - **Step** -  Set the playhead at the next note in the timelines sequence. 
     - **1/16** - Align the beginning of the timeline to the next 16th note
     - **1/8** - Align the beginning of the timeline to the next 8th note.
     - **1/4** - Align the beginning of the timeline to the next quarter note.
@@ -123,6 +124,15 @@ On this page you can adjust the advanced settings for the Timeline.
 
 - **Turn off on exit** - If the cell turns off when you exit the touch area
 
+
+## Exploding a Timeline
+In KRFT 1.6 we introduced a new Explode method for Timeline cells. This allows you to slice up an existing timeline either by time interval or note pitch. 
+    - **Explode By** - Either choose "slice" to divide the timeline by time intervals or key to divide the timeline by note pitches.
+    - **Slice Length** - The time interval the timeline will be divided by.
+    - **Trim Start/End** - Whether to remove or keep the empty space at the start and end of the resulting timelines.
+    - **Interaction** - Interaction setting of the resulting cells.
+    - **Sync** - Sync setting of the resulting timelines.
+    - **Mix Mode** - Mix Mode setting of the resulting timelines.
 ---
 
 ## Related Videos
